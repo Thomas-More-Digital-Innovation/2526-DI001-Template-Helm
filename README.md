@@ -1,2 +1,2 @@
-# 2223-DI000-TemplateRepo
+# 2526-DI001-TemplateRepo-Helm
 Template repository
